@@ -1,0 +1,23 @@
+{
+ "name" : "prueba",
+ "short_name" : "prueba",
+ "description" : "Formulario de prueba",
+ "start_url" : " ",
+ "lang" : "English",
+ "display" : "standalone",
+ "theme_color": "#3d3d3d",
+ "background_color": "#f2f2f2",
+ "orientation" : "portrait",
+ "icons": [ {
+   "src": "/images/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image/png",
+   "density": "3.0"
+  },
+ {
+ "src": "/images/formu-ico.png",
+ "sizes": "512x512",
+ "type": "image/png"
+ }
+ ]
+ }
